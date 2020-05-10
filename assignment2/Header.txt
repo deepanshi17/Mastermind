@@ -1,0 +1,9 @@
+/*
+ * EE422C Project 2 (Mastermind) submission by
+ * Replace <...> with your actual data. 
+ * <Deepanshi Sharma>
+ * <ds52384>
+ * Slip days used: <0>
+ * Spring 2020
+ */
+package assignment2;
